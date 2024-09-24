@@ -1,0 +1,35 @@
+[33mcommit 317931388161b0bf969b77cf188808ee37351ac2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mkim[m[33m)[m
+Author: hyesu <aa@aaa.com>
+Date:   Tue Sep 24 10:15:36 2024 +0900
+
+    문제해결완료
+
+[33mcommit 5d0b515e39906b83fdb3088c5fedd204ac186dd0[m
+Author: hyesu <aa@aaa.com>
+Date:   Tue Sep 24 10:13:44 2024 +0900
+
+    수정만드는중,합치면오류발생
+
+[33mcommit 792ae5d962078404505036b0f9d22f505a3ee43e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: hyesu <aa@aaa.com>
+Date:   Tue Sep 24 09:40:20 2024 +0900
+
+    오류가페이지
+
+[33mcommit ab695419044c13372f44a2e4148830171cc2684c[m
+Author: hyesu <aa@aaa.com>
+Date:   Tue Sep 24 09:38:32 2024 +0900
+
+    회원삭제완료
+
+[33mcommit 6895a31f7bcb3e4bf115c24c0404659f854ec8a9[m
+Author: hyesu <aa@aaa.com>
+Date:   Tue Sep 24 09:34:07 2024 +0900
+
+    회원보기기능완료
+
+[33mcommit c0a81a03abdffd66a27cf694269bc1934cf4ecf2[m
+Author: hyesu <aa@aaa.com>
+Date:   Tue Sep 24 09:24:48 2024 +0900
+
+    기본플젝생성
